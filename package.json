@@ -1,6 +1,6 @@
 {
   "name": "ast-traverse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple but flexible AST traversal with pre and post visitors",
   "main": "ast-traverse.js",
   "repository": {
