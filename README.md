@@ -47,13 +47,13 @@ console.log();
 /*
 =>
  Program
- ExpressionStatement
- BinaryExpression
- CallExpression
- Identifier
- Literal
- Identifier
- Literal
+     ExpressionStatement
+         BinaryExpression
+             CallExpression
+                 Identifier
+                 Literal
+                 Identifier
+             Literal
 */
 
 
