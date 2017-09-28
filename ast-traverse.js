@@ -17,7 +17,7 @@ function traverse(root, options) {
         }
 
         if (res !== false) {
-            for (var prop in node) {
+            for (let prop in node) {
                 if (skipProperty ? skipProperty(prop, node) : prop[0] === "$") {
                     continue;
                 }
